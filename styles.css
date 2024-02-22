@@ -1,0 +1,30 @@
+
+.sideby{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 180px;
+    height: 150px;
+    background-color: lightgray;
+    padding-left: 10px;
+    margin: 10;
+    float: left;
+
+}
+
+
+
+.subHeader{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: beige;
+    width: 417px;
+    height: 40px;
+    border: 1px solid black;  
+    padding-top: 10px;
+    padding-left: 10;
+    margin:20px;
+    clear:both
+}
+
+
+
+
+
